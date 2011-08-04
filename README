@@ -1,0 +1,24 @@
+scratch.js
+
+Please try the following to see what is this for:
+  Put this script in the "scripts" folder of Sg.
+  Select a grayscale image ,
+  and run this script by the triangle button.
+
+tested with Adobe Illustrator CS3 / Mac OSX(10.6.7) / Sg.2.7.037
+  
+Scriptographer is a plugin for Adobe Illustrator(TM)
+created by Juerg Lehni
+http://scriptographer.org/
+
+
+// This code under Creative Common license (CC BY-SA) 
+// http://creativecommons.org/licenses/by-sa/2.0/
+// It's mean YOU ARE FREE:
+//    to share — to copy, distribute and transmit the work, 
+//    to remix — to adapt the work
+//    to make commercial use of the work
+
+
+// Script author
+Masaki Yamabe(@masakick,masaki@allianceport.jp)
